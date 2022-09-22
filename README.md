@@ -1,2 +1,2 @@
 # ND22's MathB
-Can add, subtract, multiple, and divide.
+A simple calculator. Can add, subtract, multiple, and divide.
